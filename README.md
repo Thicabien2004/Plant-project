@@ -1,49 +1,47 @@
 # 🌿 Plant Project: Rare Species Analysis
 
-This repository contains multiple Jupyter notebooks and datasets related to the analysis of rare and endangered plant species, particularly in the Rhamnaceae family. The project supports biodiversity conservation through data-driven research.
+This repo contains Jupyter notebooks and datasets analyzing rare and endangered plant species in the Rhamnaceae family to support conservation efforts.
 
 ---
 
-## 📔 How to Use the Notebooks
+## 📔 How to Use
 
 1. **Open a notebook in Google Colab**
    
-   Click the badge below, then choose the notebook you'd like to explore:
-
+   Click the badge and select any notebook:  
    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Thicabien2004/Plant-project)
 
-2. **Set up your Google Drive folder structure
+2. **Set up your Google Drive folder**
    
-   To avoid editing file paths, please create the following structure in your own Google Drive:
-   📁 Google Drive Data Folder Structure
-   - MyDrive
-     - PLANT RESEARCH
-       - datasets
-         - (place all required CSV files here)
+   Create this structure in your Drive to match file paths:  
+   - MyDrive  
+     - PLANT RESEARCH  
+       - datasets  
+         - (place all CSV files here)
 
-3. **Download the dataset folder
+3. **Download the datasets**
    
-   Download from this shared folder and place the files as described above:
-   👉 Google Drive Folder
-
-4. **Run the notebook
+   Download the files here : 
+   👉 [Google Drive Folder](https://drive.google.com/drive/folders/1O1NVgt9FN9O2LQFyf7KKhvACFSKyjnLF?usp=sharing)
    
-   Once the structure is in place, the notebooks should run without requiring path changes.
-   📁 Repository Structure
-      - notebook1.ipynb  
-      - notebook2.ipynb  
-      - ... (other notebooks)  
-      - README.md  
-
-5. **Dependencies
+   and place them back in your folder created earlier:
    
-   These notebooks are designed to run in Google Colab, which comes with most required packages pre-installed:
-    Python 3
-    pandas
-    matplotlib
-    seaborn
-    scipy
-    
+4. **Run the notebooks**
+   
+   With data in place, notebooks should run without editing paths.
 
+---
 
+## 📁 Repo Contents
 
+- notebook1.ipynb  
+- notebook2.ipynb  
+- ...  
+- README.md  
+
+---
+
+## 🧪 Dependencies
+
+Designed for Google Colab, which includes:  
+Python 3, pandas, matplotlib, seaborn, scipy
