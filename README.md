@@ -15,10 +15,11 @@ This repository contains multiple Jupyter notebooks and datasets related to the 
 2. **Set up your Google Drive folder structure
    
    To avoid editing file paths, please create the following structure in your own Google Drive:
-    MyDrive/
-    └── PLANT RESEARCH/
-        └── datasets/
-            └── (place all required CSV files here)
+   📁 Google Drive Data Folder Structure
+   - MyDrive
+     - PLANT RESEARCH
+       - datasets
+         - (place all required CSV files here)
 
 3. **Download the dataset folder
    
@@ -28,12 +29,11 @@ This repository contains multiple Jupyter notebooks and datasets related to the 
 4. **Run the notebook
    
    Once the structure is in place, the notebooks should run without requiring path changes.
-    Plant-project/
-    ├── notebook1.ipynb
-    ├── notebook2.ipynb
-    ├── ...
-    ├── README.md
-    └── (no data files — see Google Drive download above)
+   📁 Repository Structure
+      - notebook1.ipynb  
+      - notebook2.ipynb  
+      - ... (other notebooks)  
+      - README.md  
 
 5. **Dependencies
    
