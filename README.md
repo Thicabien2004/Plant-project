@@ -6,12 +6,14 @@ This repository contains multiple Jupyter notebooks and datasets related to the 
 
 ## 📔 How to Use the Notebooks
 
-1. **Open a notebook in Google Colab**  
+1. **Open a notebook in Google Colab**
+   
    Click the badge below, then choose the notebook you'd like to explore:
 
    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Thicabien2004/Plant-project)
 
 2. **Set up your Google Drive folder structure
+   
    To avoid editing file paths, please create the following structure in your own Google Drive:
     MyDrive/
     └── PLANT RESEARCH/
@@ -19,10 +21,12 @@ This repository contains multiple Jupyter notebooks and datasets related to the 
             └── (place all required CSV files here)
 
 3. **Download the dataset folder
+   
    Download from this shared folder and place the files as described above:
    👉 Google Drive Folder
 
 4. **Run the notebook
+   
    Once the structure is in place, the notebooks should run without requiring path changes.
     Plant-project/
     ├── notebook1.ipynb
@@ -32,6 +36,7 @@ This repository contains multiple Jupyter notebooks and datasets related to the 
     └── (no data files — see Google Drive download above)
 
 5. **Dependencies
+   
    These notebooks are designed to run in Google Colab, which comes with most required packages pre-installed:
     Python 3
     pandas
